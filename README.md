@@ -1,11 +1,34 @@
 <p align="center">
-  <img width="800" src="https://badge42.herokuapp.com/api/stats/cmanzano?privacyEmail=true"/>
+  <img width="800" height="200" src="https://badge42.herokuapp.com/api/stats/cmanzano?privacyEmail=true"/>
   
-  <img width="800" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=cmanzano" align = "center"/>
-
+  <!--
+  <img width="800" height="200" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=cmanzano" align = "center"/>
+  --> 
 </p>
 
-|**Project**|**Description**|
-|------|------|
-|[libft](https://github.com/chriss1245/libft)|Basic functions implemented on C built from scratch|
-|[printf](https://github.com/chriss1245/printf)|A simple version of libc's printf|
+<table align="center">
+    <thead>
+        <tr>
+          <th align="left"><b>Project</b></th>
+            <th align="center"><b>Description</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">
+              <a href="https://github.com/chriss1245/libft"> Libft </a>
+            </td>
+            <td align="center">
+              Basic fucntions implemented on C build from scratch
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+              <a href="https://github.com/chriss1245/printf"> Printf </a>
+            </td>
+            <td align="center">
+              A simple version of libc's printf
+            </td>
+        </tr>
+    </tbody>
+</table>
