@@ -9,3 +9,4 @@
 |**Project**|**Description**|
 |------|------|
 |[libft](https://github.com/chriss1245/libft)|Basic functions implemented on C built from scratch|
+|[printf](https://github.com/chriss1245/printf)|A simple version of libc's printf|
