@@ -1,9 +1,9 @@
 <p align="center">
   <img width="800" height="200" src="https://badge42.herokuapp.com/api/stats/cmanzano?privacyEmail=true"/>
   
-  <!--
+
   <img width="800" height="200" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=cmanzano" align = "center"/>
-  --> 
+
 </p>
 
 <table align="center">
