@@ -10,7 +10,7 @@
     <thead>
         <tr>
           <th align="left"><b>Project</b></th>
-            <th align="center"><b>Description</b></th>
+          <th align="center"><b>Description</b></th>
         </tr>
     </thead>
     <tbody>
@@ -30,14 +30,14 @@
               A simple version of libc's printf
             </td>
         </tr>
-       <tr>
+        <tr>
             <td align="center">
               <a href="https://github.com/chriss1245/get_next_line">Get Next Line</a>
             </td>
             <td align="center">
               Lines reader from a file descriptor
             </td>
-        </tr>
-      
+         </tr>
     </tbody>
+  
 </table>
