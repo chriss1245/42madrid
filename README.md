@@ -11,6 +11,7 @@
         <tr>
           <th align="left"><b>Project</b></th>
           <th align="center"><b>Description</b></th>
+          <th align="right"><b>Score</b></th>
         </tr>
     </thead>
     <tbody>
@@ -21,6 +22,9 @@
             <td align="center">
               Basic fucntions implemented on C build from scratch
             </td>
+            <td>
+              <img src="https://badge42.herokuapp.com/api/project/cmanzano/Libft">
+            </td>
         </tr>
         <tr>
             <td align="center">
@@ -29,6 +33,9 @@
             <td align="center">
               A simple version of libc's printf
             </td>
+            <td>
+              <img src="https://badge42.herokuapp.com/api/project/cmanzano/ft_printf">
+            </td>
         </tr>
         <tr>
             <td align="center">
@@ -36,6 +43,9 @@
             </td>
             <td align="center">
               Lines reader from a file descriptor
+            </td>
+            <td>
+              <img src="https://badge42.herokuapp.com/api/project/cmanzano/get_next_line">
             </td>
          </tr>
     </tbody>
