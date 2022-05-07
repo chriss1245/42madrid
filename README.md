@@ -1,9 +1,10 @@
 <p align="center">
-  <img width="800" height="200" src="https://badge42.herokuapp.com/api/stats/cmanzano?privacyEmail=true"/>
+  <img width="800" height="200" src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/stats?cursusId=21&coalitionId=66"/>
   
 
+  <!--
   <img width="800" height="200" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=cmanzano" align = "center"/>
-
+  -->
 </p>
 
 <table align="center">
@@ -23,7 +24,7 @@
               Basic fucntions implemented on C build from scratch
             </td>
             <td>
-              <img src="https://badge42.herokuapp.com/api/project/cmanzano/Libft">
+              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2397751">
             </td>
         </tr>
         <tr>
@@ -34,7 +35,7 @@
               A simple version of libc's printf
             </td>
             <td>
-              <img src="https://badge42.herokuapp.com/api/project/cmanzano/ft_printf">
+              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2438037">
             </td>
         </tr>
         <tr>
@@ -45,7 +46,7 @@
               Lines reader from a file descriptor
             </td>
             <td>
-              <img src="https://badge42.herokuapp.com/api/project/cmanzano/get_next_line">
+              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2438037">
             </td>
          </tr>
         <tr>
@@ -56,7 +57,7 @@
               System administration on a debian virtual machine
             </td>
             <td>
-              <img src="https://badge42.herokuapp.com/api/project/cmanzano/Born2beroot">
+              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2438037">
             </td>
          </tr>
         <tr>
