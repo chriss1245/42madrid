@@ -35,7 +35,7 @@
               A simple version of libc's printf
             </td>
             <td>
-              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2438037">
+              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2437315">
             </td>
         </tr>
         <tr>
@@ -57,7 +57,7 @@
               System administration on a debian virtual machine
             </td>
             <td>
-              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2438037">
+              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2443731">
             </td>
          </tr>
         <tr>
