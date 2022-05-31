@@ -71,7 +71,5 @@
               <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2602961">
             </td>
          </tr>
-      
     </tbody>
-  
 </table>
