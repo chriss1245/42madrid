@@ -65,12 +65,13 @@
               <a href="https://github.com/chriss1245/pipex">Pipex</a>
             </td>
             <td align="center">
-              Emulator of pipes in Linux
+              Emulator of pipes in Unix
             </td>
             <td>
-              <img src="https://badge42.herokuapp.com/api/project/cmanzano/pipex">
+              <img src="https://badge42.vercel.app/api/v2/cl2w6m1q1009709meqqnfsrhe/project/2602961">
             </td>
          </tr>
+      
     </tbody>
   
 </table>
